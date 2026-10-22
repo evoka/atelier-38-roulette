@@ -1,0 +1,237 @@
+{
+  "voice": "Bella - Professional, Bright, Warm",
+  "language": "en-US",
+  "clips": {
+    "any-more": {
+      "file": "any-more.mp3",
+      "text": "Any more bets?",
+      "duration": 1.12
+    },
+    "no-more": {
+      "file": "no-more.mp3",
+      "text": "No more bets.",
+      "duration": 1.28
+    },
+    "result-0": {
+      "file": "result-0.mp3",
+      "text": "Number zero.",
+      "duration": 1.12
+    },
+    "result-1": {
+      "file": "result-1.mp3",
+      "text": "Number one. Red and odd.",
+      "duration": 2.8
+    },
+    "result-2": {
+      "file": "result-2.mp3",
+      "text": "Number two. Black and even.",
+      "duration": 2.88
+    },
+    "result-3": {
+      "file": "result-3.mp3",
+      "text": "Number three. Red and odd.",
+      "duration": 2.88
+    },
+    "result-4": {
+      "file": "result-4.mp3",
+      "text": "Number four. Black and even.",
+      "duration": 3.04
+    },
+    "result-5": {
+      "file": "result-5.mp3",
+      "text": "Number five. Red and odd.",
+      "duration": 2.88
+    },
+    "result-6": {
+      "file": "result-6.mp3",
+      "text": "Number six. Black and even.",
+      "duration": 3.12
+    },
+    "result-7": {
+      "file": "result-7.mp3",
+      "text": "Number seven. Red and odd.",
+      "duration": 2.88
+    },
+    "result-8": {
+      "file": "result-8.mp3",
+      "text": "Number eight. Black and even.",
+      "duration": 2.96
+    },
+    "result-9": {
+      "file": "result-9.mp3",
+      "text": "Number nine. Red and odd.",
+      "duration": 2.96
+    },
+    "result-10": {
+      "file": "result-10.mp3",
+      "text": "Number ten. Black and even.",
+      "duration": 2.96
+    },
+    "result-11": {
+      "file": "result-11.mp3",
+      "text": "Number eleven. Black and odd.",
+      "duration": 3.2
+    },
+    "result-12": {
+      "file": "result-12.mp3",
+      "text": "Number twelve. Red and even.",
+      "duration": 2.96
+    },
+    "result-13": {
+      "file": "result-13.mp3",
+      "text": "Number thirteen. Black and odd.",
+      "duration": 3.36
+    },
+    "result-14": {
+      "file": "result-14.mp3",
+      "text": "Number fourteen. Red and even.",
+      "duration": 3.12
+    },
+    "result-15": {
+      "file": "result-15.mp3",
+      "text": "Number fifteen. Black and odd.",
+      "duration": 3.36
+    },
+    "result-16": {
+      "file": "result-16.mp3",
+      "text": "Number sixteen. Red and even.",
+      "duration": 3.12
+    },
+    "result-17": {
+      "file": "result-17.mp3",
+      "text": "Number seventeen. Black and odd.",
+      "duration": 3.36
+    },
+    "result-18": {
+      "file": "result-18.mp3",
+      "text": "Number eighteen. Red and even.",
+      "duration": 3.12
+    },
+    "result-19": {
+      "file": "result-19.mp3",
+      "text": "Number nineteen. Red and odd.",
+      "duration": 3.2
+    },
+    "result-20": {
+      "file": "result-20.mp3",
+      "text": "Number twenty. Black and even.",
+      "duration": 2.96
+    },
+    "result-21": {
+      "file": "result-21.mp3",
+      "text": "Number twenty-one. Red and odd.",
+      "duration": 3.12
+    },
+    "result-22": {
+      "file": "result-22.mp3",
+      "text": "Number twenty-two. Black and even.",
+      "duration": 3.28
+    },
+    "result-23": {
+      "file": "result-23.mp3",
+      "text": "Number twenty-three. Red and odd.",
+      "duration": 3.12
+    },
+    "result-24": {
+      "file": "result-24.mp3",
+      "text": "Number twenty-four. Black and even.",
+      "duration": 3.28
+    },
+    "result-25": {
+      "file": "result-25.mp3",
+      "text": "Number twenty-five. Red and odd.",
+      "duration": 3.36
+    },
+    "result-26": {
+      "file": "result-26.mp3",
+      "text": "Number twenty-six. Black and even.",
+      "duration": 3.36
+    },
+    "result-27": {
+      "file": "result-27.mp3",
+      "text": "Number twenty-seven. Red and odd.",
+      "duration": 3.2
+    },
+    "result-28": {
+      "file": "result-28.mp3",
+      "text": "Number twenty-eight. Black and even.",
+      "duration": 3.12
+    },
+    "result-29": {
+      "file": "result-29.mp3",
+      "text": "Number twenty-nine. Black and odd.",
+      "duration": 3.44
+    },
+    "result-30": {
+      "file": "result-30.mp3",
+      "text": "Number thirty. Red and even.",
+      "duration": 3.04
+    },
+    "result-31": {
+      "file": "result-31.mp3",
+      "text": "Number thirty-one. Black and odd.",
+      "duration": 3.44
+    },
+    "result-32": {
+      "file": "result-32.mp3",
+      "text": "Number thirty-two. Red and even.",
+      "duration": 3.28
+    },
+    "result-33": {
+      "file": "result-33.mp3",
+      "text": "Number thirty-three. Black and odd.",
+      "duration": 3.44
+    },
+    "result-34": {
+      "file": "result-34.mp3",
+      "text": "Number thirty-four. Red and even.",
+      "duration": 3.28
+    },
+    "result-35": {
+      "file": "result-35.mp3",
+      "text": "Number thirty-five. Black and odd.",
+      "duration": 3.44
+    },
+    "result-36": {
+      "file": "result-36.mp3",
+      "text": "Number thirty-six. Red and even.",
+      "duration": 3.28
+    },
+    "result-00": {
+      "file": "result-00.mp3",
+      "text": "Number double zero.",
+      "duration": 1.6
+    },
+    "bell-three": {
+      "file": "bell-three.mp3",
+      "text": "Ding. Ding. Ding.",
+      "duration": 1.55
+    },
+    "no-more-bells": {
+      "file": "no-more-bells.mp3",
+      "text": "No more bets.",
+      "duration": 1.55,
+      "mix": [
+        {
+          "clip": "bell-three",
+          "offset": 0,
+          "gain": 0.42
+        },
+        {
+          "clip": "no-more",
+          "offset": 0,
+          "gain": 1
+        }
+      ]
+    },
+    "ball-down": {
+      "file": "ball-down.mp3",
+      "text": "Ball is going down.",
+      "duration": 1.68
+    }
+  },
+  "revision": "eleven-v4-bella-zero-v4",
+  "provider": "ElevenLabs",
+  "model_id": "eleven_v4",
+  "voice_id": "hpp4J3VqNfWAUOO0d1Us"
+}
